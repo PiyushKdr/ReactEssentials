@@ -1,0 +1,22 @@
+{
+  "name": "02_igniting-our-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PiyushKdr/ReactEssentials.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PiyushKdr/ReactEssentials/issues"
+  },
+  "homepage": "https://github.com/PiyushKdr/ReactEssentials#readme",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
